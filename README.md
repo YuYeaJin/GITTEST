@@ -39,3 +39,22 @@ git commit -m "first commit"
 git status # 상태 확인
 git log # 로그 확인
 ```
+
+
+### Local Git to GITHUB
+- Github에서 저장소 생성
+- 저장소 주소
+    - https://github.com/YuYeaJin/GITTEST.git
+
+- 원격지 등록
+```bash
+git remote add oriein https://github.com/YuYeaJin/GITTEST.git
+# git remote add 저장소이름 저장소주소
+```
+
+- push
+```bash
+git push -u oriein master # 첫 번째 푸시
+git pus # 기본 원격지 현재 브랜치를 푸시
+```
+
