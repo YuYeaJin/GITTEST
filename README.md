@@ -58,6 +58,10 @@ git push -u oriein master # 첫 번째 푸시
 git push # 기본 원격지 현재 브랜치를 푸시
 ```
 
+### From GitHub to Local Git
+- 복제할 원격 저장소 주소 확보
+- 복제
 ```bash
-git status
+git clone https://github.com/YuYeaJin/GITTEST.git
+# git clone 원격지 주소
 ```
