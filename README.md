@@ -55,6 +55,9 @@ git remote add oriein https://github.com/YuYeaJin/GITTEST.git
 - push
 ```bash
 git push -u oriein master # 첫 번째 푸시
-git pus # 기본 원격지 현재 브랜치를 푸시
+git push # 기본 원격지 현재 브랜치를 푸시
 ```
 
+```bash
+git status
+```
